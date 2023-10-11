@@ -1,6 +1,8 @@
-![RobofriendSC1E](https://github.com/EltonLuck/robofriends/assets/113753608/09c7da57-ec48-48aa-b754-5c231c015f69)
-![RobofriendSC2E](https://github.com/EltonLuck/robofriends/assets/113753608/80e78899-d563-4b8e-ac63-4e76d4bec46c)
-![RobofriendSC3E](https://github.com/EltonLuck/robofriends/assets/113753608/cf3c99b2-12ba-40af-9f46-1bc3cf4fadd6)
+![RobofriendSC1EC](https://github.com/EltonLuck/robofriends/assets/113753608/fa976000-2650-4c59-ba35-7c487b97a035)
+![RobofriendSC2EC](https://github.com/EltonLuck/robofriends/assets/113753608/c6d9bfd1-01d9-457d-b6f8-5c31971d14b9)
+![RobofriendSC3EC](https://github.com/EltonLuck/robofriends/assets/113753608/05d21df2-b710-48cd-9d47-7d3a406f2710)
+
+
 
 
 # Getting Started with Create React App
